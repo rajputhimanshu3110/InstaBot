@@ -55,7 +55,10 @@ user = input("Name Please : ")
 talk(f"Hello {user} Welcome to instagram Scrapping")
 # Create an instance of Instaloader class
 bot = instaloader.Instaloader()
-bot.login(user="__singhhimanshu",passwd="Viraj@1983")
+
+
+#ENter here your email and paasword to start BOT
+bot.login(user="",passwd="")
 
 if __name__ == '__main__':
     while x!=0:
