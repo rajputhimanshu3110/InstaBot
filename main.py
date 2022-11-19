@@ -58,7 +58,7 @@ bot = instaloader.Instaloader()
 
 
 #ENter here your email and paasword to start BOT
-bot.login(user="",passwd="")
+bot.login(user="Dummy User",passwd="Dummy Password")
 
 if __name__ == '__main__':
     while x!=0:
